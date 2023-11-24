@@ -1,0 +1,19 @@
+{
+    "name": "adrianjurado/bienesraices-poo",
+    "description": "Creando un proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Adrian Fernando Jurado",
+            "email": "ajuradof1@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./classes"
+        }
+    }
+}
